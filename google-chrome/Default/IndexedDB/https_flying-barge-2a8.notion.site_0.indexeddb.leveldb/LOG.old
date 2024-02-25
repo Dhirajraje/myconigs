@@ -1,0 +1,13 @@
+2024/02/23-08:36:36.044 abc7 Reusing MANIFEST /home/dhiraj/.config/google-chrome/Default/IndexedDB/https_flying-barge-2a8.notion.site_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/23-08:36:36.044 abc7 Recovering log #21
+2024/02/23-08:36:36.045 abc7 Reusing old log /home/dhiraj/.config/google-chrome/Default/IndexedDB/https_flying-barge-2a8.notion.site_0.indexeddb.leveldb/000021.log 
+2024/02/23-08:36:38.720 abc7 Level-0 table #26: started
+2024/02/23-08:36:38.725 abc7 Level-0 table #26: 573 bytes OK
+2024/02/23-08:36:38.728 abc7 Delete type=0 #21
+2024/02/23-08:36:38.729 abd6 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 278 : 1
+2024/02/23-08:36:38.729 abd6 Compacting 1@0 + 1@1 files
+2024/02/23-08:36:38.731 abd6 Generated table #27@0: 15 keys, 592 bytes
+2024/02/23-08:36:38.731 abd6 Compacted 1@0 + 1@1 files => 592 bytes
+2024/02/23-08:36:38.734 abd6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/02/23-08:36:38.734 abd6 Delete type=2 #26
+2024/02/23-08:36:38.734 abd6 Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 278 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)

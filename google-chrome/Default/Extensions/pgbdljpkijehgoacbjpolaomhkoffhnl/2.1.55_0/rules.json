@@ -1,0 +1,23 @@
+ [
+   {
+     "id": 2,
+     "priority": 1,
+     "action": {
+       "type": "block"
+     },
+     "condition": {
+       "urlFilter": "*pixel*user=*&end=1*",
+       "resourceTypes": ["image"]
+     }
+   }, {
+     "id": 3,
+     "priority": 1,
+     "action": {
+       "type": "block"
+     },
+     "condition": {
+       "urlFilter": "*pixel*user=*&amp;end=1*",
+       "resourceTypes": ["image"]
+     }
+   }
+  ]

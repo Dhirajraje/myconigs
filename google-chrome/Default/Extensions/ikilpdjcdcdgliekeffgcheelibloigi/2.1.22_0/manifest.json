@@ -1,0 +1,43 @@
+{
+   "action": {
+      "default_icon": "mailmerger_icon.png",
+      "default_popup": "src/pages/popup/index.html",
+      "default_title": "MailTracker"
+   },
+   "background": {
+      "service_worker": "src/pages/background/index.js",
+      "type": "module"
+   },
+   "content_scripts": [ {
+      "css": [ "assets/css/Style.chunk.css", "style.css" ],
+      "js": [ "jquery.min.js", "src/pages/content/index.js", "webcomponents-bundle.js" ],
+      "matches": [ "https://inbox.google.com/*", "https://mail.google.com/*", "https://mailtracker.hunter.io/messages" ]
+   } ],
+   "declarative_net_request": {
+      "capabilities": [ "dynamicRuleset" ],
+      "rule_resources": [ {
+         "enabled": false,
+         "id": "ruleset_1",
+         "path": "rules.json"
+      } ]
+   },
+   "description": "Send unlimited cold emails with AI-powered inbox rotation",
+   "homepage_url": "https://mailtracker.hunter.io",
+   "host_permissions": [ "*://mail.google.com/", "*://mailtracker.hunter.io/" ],
+   "icons": {
+      "128": "mailmerger_icon.png",
+      "16": "mailmerger_icon.png",
+      "48": "mailmerger_icon.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAudo5NtNtXkXxh/PJIY3ZJX5NeoFm9oJgyjPCpcbY3eMhkqDFWfZnMCStwb3/QSMa335ymacxocpCzaFacIcvR5uyNeG+bNEflRfh5Sb3Gf9opHyuhrkJ8qCDbeLQ3J34ccM2Vy8n0nfoPnMeAaKX9/iz7o88S+Wdoz4dvOsh6yTuALUowmPzbHSFF3z1x6T7udH6on3KUGLL4HzXkYkq1wM6CUfoagdg0xloAuRDewbUYXXRIWznu0Z8SwuyWlm10/jQUgqmvrxTcd+baXbpuJNULLeiMZ1yZuI/JdXeGYb5Ijx8iDhSUTeQCR6farg1EZshsRmorM0JQ4qEc8yz6QIDAQAB",
+   "manifest_version": 3,
+   "name": "UnliScale: Email OutReach platform for Gmail",
+   "optional_permissions": [ "notifications" ],
+   "permissions": [ "declarativeNetRequest", "storage", "identity", "scripting" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.1.22",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "assets/js/*", "assets/css/*", "mailautomation_icon.png", "mailautomation_icon_off.png", "mailfinder_icon.png", "mailfinder_icon_off.png", "mailmerger_icon.png", "mailmerger_icon_off.png", "mailtracker_icon.png", "mailtracker_icon_off.png", "mailmerger_icon_black.png", "mailmerger_icon_green.png", "mailmerger_icon_grey.png", "mailmerger_composer_icon.png", "pageWorld.js", "pageWorld.js.map", "webcomponents-bundle.js" ]
+   } ]
+}

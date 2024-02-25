@@ -1,0 +1,14 @@
+2024-02-24 15:25:57.027 [info] (Client) Pylance async client (2024.2.2) started with python extension (2024.0.1)
+2024-02-24 15:25:59.336 [info] [Info  - 15:25:59] (51526) Pylance language server 2024.2.2 (pyright version 1.1.348, commit cfb1de0c) starting
+2024-02-24 15:25:59.337 [info] [Info  - 15:25:59] (51526) Server root directory: file:///home/dhiraj/.vscode/extensions/ms-python.vscode-pylance-2024.2.2/dist
+2024-02-24 15:25:59.337 [info] [Info  - 15:25:59] (51526) Starting service instance "assessment"
+2024-02-24 15:25:59.465 [info] [Info  - 15:25:59] (51526) Setting pythonPath for service "assessment": "/home/dhiraj/Workspace/Assessment/assessment/.venv/bin/python"
+2024-02-24 15:25:59.467 [info] [Info  - 15:25:59] (51526) Setting environmentName for service "assessment": "3.11.6 (.venv venv)"
+2024-02-24 15:25:59.597 [info] [Info  - 15:25:59] (51526) Assuming Python version 3.11
+2024-02-24 15:25:59.871 [info] [Info  - 15:25:59] (51526) Found 18 source files
+2024-02-24 15:26:00.733 [info] [Info  - 15:26:00] (51526) Background analysis(1) root directory: file:///home/dhiraj/.vscode/extensions/ms-python.vscode-pylance-2024.2.2/dist
+2024-02-24 15:26:00.741 [info] [Info  - 15:26:00] (51526) Background analysis(1) started
+2024-02-24 15:46:09.527 [info] [Info  - 15:46:09] (51526) Setting pythonPath for service "assessment": "/home/dhiraj/Workspace/Assessment/assessment/.venv/bin/python"
+2024-02-24 15:46:09.528 [info] [Info  - 15:46:09] (51526) Setting environmentName for service "assessment": "3.11.6 (.venv venv)"
+2024-02-24 15:46:09.609 [info] [Info  - 15:46:09] (51526) Assuming Python version 3.11
+2024-02-24 15:46:09.868 [info] [Info  - 15:46:09] (51526) Found 18 source files

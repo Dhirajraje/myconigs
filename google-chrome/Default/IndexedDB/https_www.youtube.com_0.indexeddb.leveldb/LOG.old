@@ -1,0 +1,15 @@
+2024/02/25-16:29:19.461 4bda Reusing MANIFEST /home/dhiraj/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/25-16:29:19.461 4bda Recovering log #21
+2024/02/25-16:29:19.476 4bda Reusing old log /home/dhiraj/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000021.log 
+2024/02/25-16:29:52.023 4bdb Level-0 table #26: started
+2024/02/25-16:29:52.036 4bdb Level-0 table #26: 788172 bytes OK
+2024/02/25-16:29:52.040 4bdb Delete type=0 #21
+2024/02/25-16:29:52.040 4bdb Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/02/25-16:29:52.040 4bdb Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x09\x01\x1f\x03\xcd\xf4\xa3\x8a\x9fRyB\x00\x01\x1c\x00y\x00t\x00-\x00m\x00i\x00n\x00i\x00p\x00l\x00a\x00y\x00e\x00r\x00-\x00s\x00h\x00o\x00w\x00n\x00-\x00v\x00i\x00d\x00e\x00o\x00-\x00i\x00d' @ 56067 : 1
+2024/02/25-16:29:52.040 4bdb Compacting 1@1 + 1@2 files
+2024/02/25-16:29:52.047 4bdb Generated table #27@1: 476 keys, 57468 bytes
+2024/02/25-16:29:52.047 4bdb Compacted 1@1 + 1@2 files => 57468 bytes
+2024/02/25-16:29:52.049 4bdb compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/02/25-16:29:52.050 4bdb Delete type=2 #23
+2024/02/25-16:29:52.050 4bdb Delete type=2 #26
+2024/02/25-16:29:52.051 4bdb Manual compaction at level-1 from '\x00\x09\x01\x1f\x03\xcd\xf4\xa3\x8a\x9fRyB\x00\x01\x1c\x00y\x00t\x00-\x00m\x00i\x00n\x00i\x00p\x00l\x00a\x00y\x00e\x00r\x00-\x00s\x00h\x00o\x00w\x00n\x00-\x00v\x00i\x00d\x00e\x00o\x00-\x00i\x00d' @ 56067 : 1 .. (end); will stop at (end)

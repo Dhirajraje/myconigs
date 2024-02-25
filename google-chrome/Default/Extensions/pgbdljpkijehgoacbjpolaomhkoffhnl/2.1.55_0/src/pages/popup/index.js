@@ -1,0 +1,2 @@
+import"../../../assets/js/modulepreload-polyfill.3cfb730f.js";import{c as t,j as o,A as e,M as n}from"../../../assets/js/WithMailTrackerStyle.01289d82.js";import{P as i}from"../../../assets/js/Popup.fa688dd8.js";import"../../../assets/js/orgaApi.6f81477b.js";function a(){const r=document.querySelector("#app-container");if(!r)throw new Error("Can not find #app-container");t(r).render(o(n,{children:o(e,{children:o(n,{children:o(i,{})})})}))}a();
+//# sourceMappingURL=index.js.map

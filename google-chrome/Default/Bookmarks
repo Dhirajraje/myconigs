@@ -1,0 +1,272 @@
+{
+   "checksum": "f9849c72c5564fa8ef9a83afe5d78195",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13266603092308153",
+            "date_last_used": "0",
+            "guid": "b82fd71b-3ebd-4534-a959-131163a0ee99",
+            "id": "25",
+            "name": "Udacity-Google Partnership | Udacity",
+            "type": "url",
+            "url": "https://www.udacity.com/google"
+         }, {
+            "date_added": "13271510193452506",
+            "date_last_used": "13322999818622668",
+            "guid": "2c8f861c-fec4-41bc-b672-f188217d6508",
+            "id": "26",
+            "name": "Search | unDraw",
+            "type": "url",
+            "url": "https://undraw.co/search"
+         }, {
+            "date_added": "13334613022472127",
+            "date_last_used": "13352963453406943",
+            "guid": "952ad654-1297-4b37-b72a-6a8acf4c8249",
+            "id": "40",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Theming - shadcn/ui",
+            "type": "url",
+            "url": "https://ui.shadcn.com/docs/theming"
+         }, {
+            "date_added": "13337644557748923",
+            "date_last_used": "0",
+            "guid": "5ba49945-1dcc-421e-a852-868a94ed6a4a",
+            "id": "45",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "dmontagu/fastapi-auth: Auth for use with FastAPI",
+            "type": "url",
+            "url": "https://github.com/dmontagu/fastapi-auth"
+         }, {
+            "date_added": "13349446469120378",
+            "date_last_used": "13352961299730747",
+            "guid": "d8a826ac-ab87-4ac0-8048-87bb9ae75261",
+            "id": "48",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "kamalber/shopify-products-api: Bulk upload products to your shopify store using shopify API in python",
+            "type": "url",
+            "url": "https://github.com/kamalber/shopify-products-api"
+         }, {
+            "date_added": "13350888285985598",
+            "date_last_used": "0",
+            "guid": "d1a22d66-a4d9-4b90-aa62-e417099bdc2e",
+            "id": "22",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Aceternity UI",
+            "type": "url",
+            "url": "https://ui.aceternity.com/"
+         } ],
+         "date_added": "13352751361544867",
+         "date_last_used": "0",
+         "date_modified": "13352839276535695",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13339942957894315",
+            "date_last_used": "0",
+            "guid": "ebb02fd3-919e-4cb4-a4a4-6861aaee4f6f",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Watch Blue Beetle (2023) on Flixtor.to",
+            "type": "url",
+            "url": "https://flixtor.to/watch/movie/31684322/blue-beetle"
+         }, {
+            "date_added": "13348606219988293",
+            "date_last_used": "0",
+            "guid": "70813345-a8f7-4cb4-9731-04e3abb096be",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Kliton/react-kanban-board-dnd-kit-tutorial-yt at reactjsexample.com",
+            "type": "url",
+            "url": "https://github.com/Kliton/react-kanban-board-dnd-kit-tutorial-yt?ref=reactjsexample.com"
+         }, {
+            "date_added": "13348661339313659",
+            "date_last_used": "0",
+            "guid": "02179000-c114-417b-88f2-e57a93979d01",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Downloads",
+            "type": "url",
+            "url": "chrome://downloads/"
+         }, {
+            "date_added": "13348731189381820",
+            "date_last_used": "0",
+            "guid": "1ad5dd74-f2d1-41d9-95cb-db64cf00cbd9",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Apache Superset — Getting it up and running | by Soteri Panagou | Medium",
+            "type": "url",
+            "url": "https://medium.com/@soteri/apache-superset-getting-it-up-and-running-54e6ac7264a4"
+         }, {
+            "children": [ {
+               "date_added": "13349182186440643",
+               "date_last_used": "0",
+               "guid": "7105634f-2060-462e-85bd-cb795d4b8467",
+               "id": "10",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "authentik: Reviews, Features, Pricing & Download | AlternativeTo",
+               "type": "url",
+               "url": "https://alternativeto.net/software/authentik/about/"
+            }, {
+               "date_added": "13349183286070102",
+               "date_last_used": "0",
+               "guid": "6bbf34b6-71fe-4c18-8b44-e611937db0dd",
+               "id": "11",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "SuperTokens: Reviews, Features, Pricing & Download | AlternativeTo",
+               "type": "url",
+               "url": "https://alternativeto.net/software/supertokens/about/"
+            }, {
+               "date_added": "13349198051409790",
+               "date_last_used": "0",
+               "guid": "41e6015f-9e8d-4810-85c2-55d71de1ebf3",
+               "id": "12",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Novotic",
+               "type": "url",
+               "url": "http://localhost:5173/home/projects/1/time-tracking"
+            }, {
+               "date_added": "13349289408328652",
+               "date_last_used": "0",
+               "guid": "7a6b8f38-06d0-4029-af67-0215aa1f2f1b",
+               "id": "13",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "zitadel/zitadel: ZITADEL - Identity infrastructure, simplified for you.",
+               "type": "url",
+               "url": "https://github.com/zitadel/zitadel?tab=coc-ov-file"
+            } ],
+            "date_added": "13349182218891276",
+            "date_last_used": "0",
+            "date_modified": "13349289408328652",
+            "guid": "8ef2a338-a614-4032-a1f8-bbef74184a16",
+            "id": "9",
+            "name": "AUTH-PROVIDER",
+            "type": "folder"
+         }, {
+            "date_added": "13350513892481784",
+            "date_last_used": "0",
+            "guid": "07c8c23c-22b4-443d-a829-ea08b35ca3de",
+            "id": "14",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "30 Days of Code — Complete Guide W/Resources(DSA) | by Omkar Somnath Ghotekar | Medium",
+            "type": "url",
+            "url": "https://omkarghotekar.medium.com/30-days-of-code-complete-guide-w-resources-dsa-efc0930efbd9"
+         } ],
+         "date_added": "13352751361544870",
+         "date_last_used": "0",
+         "date_modified": "13350513892481784",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13255200447581987",
+            "date_last_used": "13347615191497884",
+            "guid": "01cee319-e048-4e7b-9889-b8c7fd699b60",
+            "id": "15",
+            "name": "[AwesomeWM] A Work in Progress : unixporn",
+            "type": "url",
+            "url": "https://www.reddit.com/r/unixporn/comments/kse121/awesomewm_a_work_in_progress/"
+         }, {
+            "date_added": "13285315814017761",
+            "date_last_used": "0",
+            "guid": "5f50833a-32cd-451d-8048-ff9d892a67a7",
+            "id": "16",
+            "name": "How to build a blockchain from scratch with Go - LogRocket Blog",
+            "type": "url",
+            "url": "https://blog.logrocket.com/how-to-build-blockchain-from-scratch-go/"
+         }, {
+            "date_added": "13285414093697236",
+            "date_last_used": "0",
+            "guid": "a87ef06d-cc2b-4d8b-86be-a925cfe62972",
+            "id": "17",
+            "name": "Realme Narzo 20 RMX2191 Firmware Flash File | Stock ROM Guide",
+            "type": "url",
+            "url": "https://www.getdroidtips.com/realme-narzo-20-flash-file/"
+         }, {
+            "date_added": "13290291320868541",
+            "date_last_used": "0",
+            "guid": "eef75a9f-aded-4384-ba91-12a636704599",
+            "id": "18",
+            "name": "CSS Buttons, checkboxes, and more! Copy paste CSS & HTML",
+            "type": "url",
+            "url": "https://cssbuttons.io/"
+         }, {
+            "date_added": "13292119833626376",
+            "date_last_used": "0",
+            "guid": "738b3c5b-8aa4-4c01-aa38-08cc89aceca3",
+            "id": "19",
+            "name": "Manage Users  |  Firebase Documentation",
+            "type": "url",
+            "url": "https://firebase.google.com/docs/auth/admin/manage-users"
+         }, {
+            "date_added": "13295216485892483",
+            "date_last_used": "0",
+            "guid": "5766d264-94a6-4cd5-9beb-d4f68c90ab64",
+            "id": "20",
+            "name": "Wave - SAAS Starter Kit",
+            "type": "url",
+            "url": "https://devdojo.com/wave?status=accepted&expires=1653334771&p_sid=37973&p_aid=127422&p_link=3121&p_tok=a9522497-dd86-4b32-bfea-796516c20069"
+         }, {
+            "date_added": "13295286129515812",
+            "date_last_used": "0",
+            "guid": "85354bc6-2aee-4bc7-9f08-1eb27a6ac5b8",
+            "id": "21",
+            "name": "React Card components - Float UI",
+            "type": "url",
+            "url": "https://www.floatui.com/components/cards/"
+         }, {
+            "date_added": "13351724481037709",
+            "date_last_used": "0",
+            "guid": "31891a85-9465-4c7e-b0b4-e0b6d820e7ac",
+            "id": "23",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Background Beams",
+            "type": "url",
+            "url": "https://ui.aceternity.com/components/background-beams"
+         } ],
+         "date_added": "13352751361544873",
+         "date_last_used": "0",
+         "date_modified": "13351724481037709",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CqoBCokBCIiBAhKCASAAkgF9CjQKDmNocm9tZV9zeW5jX2JtEgU1MSFibRoSCbnStqP9EQYAEbnStqP9EQYAKeOqt6P9EQYACkUKFmFubm90YXRpb25fY2hyb21lX3N5bmMSBTUxIWJkGhIJgKesnf0RBgARgKesnf0RBgApGM+2o/0RBgAwgM+y7dm/hAMSACoYTFRUUWNjby9obGZRYjJSTzBSekU4dz09SAMS6wEIChLmAQocQ3libjBDQ1JGaFhkdUFBTHFySFp4TkVBZmE4PRJmWjpBRHF0QVp5MlBid2Z0MDdJTEZxLytKanNDS2trWU5PUFAwR0I1NFkyclVuYnl6M2dyQ2I4ZkJ3SElYRldPYzhWd0VabUpVTTlsbkppYWZoU0ZHTWhyQlVqQWZwZ0h1dExpQT09GAAgACgAMOy5wL7GzYMDOMv3ssTOMUDL97LEzjFKHFVLbDBBRzgydlNyYWxqUFJkTHpKWmJua1RPND1aHiIcb1YwclJ6UjErVWFJeTJ2WFJjNU80TmdsYXJRPWVpR1r8EsMBCAISvgEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SZlo6QURxdEFaeXBJdWV0NVdPWjZDMk9NTHVlaitjNGtPTDNwSUJOVE4xencyUE9WQjc2aDZWSThBdWNaV3R3cFBIZHpVYkMzenZlK1B6aHdnc0gvUngyZFhITGkzSGxLZ0l1TUE9PRgAIAAoADCmotTkyLaEAzgAQABKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEuwBCAYS5wEKHDRmeXI3UnZzQks0Vm9XY2dlOThaVlhNL3pVTT0SZlo6QURxdEFaeTJQYndmdDA3SUxGcS8rSmpzQ0tra1haODBBaEJDNmFYZk5UZ0x4dVp6WDlLNXNLK0tqcFN0bkhwMjVVM1dOUUlUV3Bra1Naa2JrVjhRV2lkVmNCaUgrdElBaEE9PRgAIAAoADCAzpbc5LyDAzjY3eCxzDFA2N3gscwxShxMcE5MaFNsbmh2bG1OeFlvNEVlc3RjOUg0QXM9Wh8iHagyYnQwTStTVlZCNlp6MDhERlUwSzVwVG9rd0U9ZcClKLoS7AEICBLnAQoca2Fsd2RyZyt2alFYcGo1cnZwRUdHZ3BQenh3PRJmWjpBRHF0QVp5MlBid2Z0MDdJTEZxLytKanNDS2trbWJERUN5M1M5L3VoNGVBT1p5bHlFWG1ma1J0UUNEMlRFcXhmaGVUdVM2bWhjU29Wa29OSWVaUUpHWko5TEJOb3VNM2dlUT09GAAgACgAMOK15KK2wIMDOIyhrO3MMUCMoaztzDFKHHNDaUlYS3JiOTFkV0xTcXdtMDl0eFd2Q0JEbz1aHyId6ldQUGh2VjFHd0pTajNDWnFSR1VZWHFFN1BTMD1lgs5AUhLsAQgHEucBChw5dkQyVk1oaVhvaVp3QVZLRUI0MDAxL0lBdVk9EmZaOkFEcXRBWnkyUGJ3ZnQwN0lMRnEvK0pqc0NLa2tkajNqdjdpeHBjOGJzMlgvZVM5Q25pYzB6U0ZCd1FoMUxtT2ZGWVEyclg0cElqY1JTbU1DVWtBSUZZTzcyUUFHYlpNTGRRPT0YACAAKAAwhfjgh7K+gwM4s/mEzMwxQLP5hMzMMUocUm1UKzJOMlBXVi9PS2d0a3gyUzNnYzlZZ1pVPVofIh3USVVsYll0U1NmcFVwUkF6ckIwcGZUQXFVNThBPWUjSbn1EuwBCAkS5wEKHHR0WUVkcTN1b3NGYnEzZmR4em5tckJoRFNDUT0SZlo6QURxdEFaeTJQYndmdDA3SUxGcS8rSmpzQ0tra1l6WjczcjNlcElObDR2Z2Z0OXlxblhsT3FxZm1PM3VnbGxHK1IwWEtLQUt5NTlBRXBJbDVpMWUzOVdNZENPWllaemVDS1E9PRgAIAAoADDsucC+xs2DAziL9bTEzjFAi/W0xM4xShxmWHJ2NmpaQ0ZsN243ZkNOWktYTitzT25JNkE9Wh8iHfpPdEhxcjZsZXFZY1ltbVZBcExXeUczMmREbDQ9ZQAAAAAS7QEIExLoAQocM09XOWVFYnh6K2JldVZsU2J1MDF1TWQySnRjPRJmWjpBRHF0QVp5MlBid2Z0MDdJTEZxLytKanNDS2trV0U5T3ovcEticUhoTlJuZGUxT1V3R2J0TlVVZTZTZE5DMFhIYjBZQlFQVENGT2FjRG5iVXA5MUl3aS9xM2lUM3hJUVJmdz09GAAgACgAMJTwj7Cnp/gCOOio+fr5L0DoqPn6+S9KHGR1cGM2RjdvNTFtUS9YbHN6SVFnemg4ckdGND1aICIe/9trMlZqNmpzQmY5Q1BjekdqV0ZTTExqVU9mems9ZeDcZuAStQIIGRKwAgocUWNHejRHVlhiT3A5R2F6TXVOTUJQZWhScWtzPRKmAVo6QURxdEFadzBPMUJBelJidFN2MlRqSXhmZWVhUW1QdFlUVThxblR6eFJtUEh2ZGllcjkrOHVlc0FMM0piVWdKQjJWRkxmTGpCR3gvUGRFVzFCQkJrVTJ5Z2ZJaHRNM1VqWHp5RjR6eGF3eU1UeXkydjF2bGR5ZWlndFdzN1JUbGRyMVN5aGJhN0hWeTBabW5JRThRRTlLUU9rSFRlNTg5SmpBPT0YACACKAIw9eec98i2hAM41ILP85ovQOKShP3bMUocWHd1bVhUcy9JREhPb25GNkgxT09lWTBGN0hRPVonIiX/////AAAACdVkSERmTFlvUWhDckR5bS92ZDREeS9hL00rRTQ9ZYMDGeQS7AEICxLnAQocM21OWjgzRlU3cmRHeTZDZWFSNG5hb0dKTWhFPRJmWjpBRHF0QVp5MlBid2Z0MDdJTEZxLytKanNDS2trM1daU3p0azkwK2RrZ055c0pNU3NiM3NFd0dFSUpPMnNWeWxwZGNtNS9oSy9laW95MjI1YkdIcVh0TVpDQzN3UEc1MC9mQT09GAAgACgAMIuAtrvKzYMDOLqG9sTOMUC6hvbEzjFKHHliUmcrT2lIY3U0cS90NE9hUE5FMzJ4cXF2UT1aHyIdt2xYbVQ5Vi94U0JUSnovM0srWHpzTzdzR3JFTT1laUda/BLrAQgFEuYBChxmTDZJb3JaTjdUSk1oT0NwWjB1K1RDT043eDg9EmZaOkFEcXRBWnkyUGJ3ZnQwN0lMRnEvK0pqc0NLa2tPMU5FT3BsdDlaN25laTYxVzN4TGdnV09rM293ZVBIQmhYU1NKSjkzSTBZTTFUUHR3bjBKR3V1bXdvYWtVeloxOFZkSFFnPT0YACAAKAAw9pqhx9PAgQM43JbljqwxQNyW5Y6sMUocZCs0UnpuRlZnU0pLWUY2RmZWaUVJRm9zb0FBPVoeIhxReldxMHdqOFhxaXRhSWg2MCtCQ2hlYUJNVmc9Zed3rZYS7AEIDRLnAQocc2xLU2IzOElNbFNYSk94bFlxcTZ3NFEyVDBjPRJmWjpBRHF0QVp5MlBid2Z0MDdJTEZxLytKanNDS2trQktMaUV0UHVZbzUwb3N0OUdjdmdKemUvZkhoSCtBZ21adGtKcS9qa25KVUFTZ0tacXVJdGViNGtQYms0ZEN3TVduNUhkdz09GAAgACgAMKiYt+bV0IMDOMuew/fOMUDLnsP3zjFKHHZBQms5Sy9wUlRaM0VPL3pocW1rcUNaUW8xWT1aHyId7Tg4UG1naEtTd2JWa05KamdIRFlpWVQ2TkdSbz1lwKUouhKtAggPEqgCChxiQkt5TjF0VWdhWW1RQkI1ak8vSUFvUWpYVU09EqYBWjpBRHF0QVp3ME8xQkF6UmJ0U3YyVGpJeGZlZWFROGZsVGFBeXFNZEZiN0RKYjNoWGsvS3hBZ0JKaXNTem4weGNsWjVYY3M1QitiR3Z6RENoUiswVmNUWGg1UlhZbDVsNEtVM0dWTWlJbjNSc1Ewc0dsek9haEkzMlhXQUxzVDl1YStRM3pHNXdoVVY4OVNVRU13NGdXRVUyditHaWFUOWwxS3c9PRgAIAAoADDHz5Hw+J+DAzje6LS28C5A3ui0tvAuShwwQ0l3cUNoZGJNVkJMZnBWOXZxT01ObTgrUFU9Wh8iHf1qTEs1Uk5sNFI2VWZtY3l0b2ZMcGdQbnNIV0U9ZbL5BB4S7AEIDBLnAQocazBKSTJlLytCZS9ZSDcreVNMcHFISldPZmlzPRJmWjpBRHF0QVp5MlBid2Z0MDdJTEZxLytKanNDS2trcmUyV2w1djc4eFlYWnFsUjRZVnVaRC9MalBQd2E2dDYzRUM0WjhKR3NtcFhJSGxPNmx2S3ZvbVJUMVpMZWg5MVV3c0dPdz09GAAgACgAML7m+ruBzoMDONag+8vOMUDWoPvLzjFKHHVaT0REQkhNRnpKRnFWOWxPVy9vQTdkREU4QT1aHyId20FUSFRWN1ZDbVZhenRidUdDMVhhOU4rQTNraz1lp/4jrhLtAQgXEugBChxwSkRYaitZQmMydXAxWFFqSHp0dmRFWTVZckk9EmZaOkFEcXRBWnkyUGJ3ZnQwN0lMRnEvK0pqc0NLa2tPY04xaC9ITUYxN0tKd0xRNUJZcThvYk80Q1BWUFdVQzhWRFZqR1FEckFUV3F4UkYxbk42citwMlFjczFJclFuNWlXL09RPT0YACAAKAAw4cTDk8WXhAM4lKTUgNgxQJSk1IDYMUocRFI2M09ESFlLckx1Q1N3VTMrWkZRdTY4WnZnPVogIh7//VYyaXRPREdETy93d2ZaL0VMbjRmVGhjUUNMWT1lDJmkyRL0AQgwEu8BChxmaXV1Y3d1bUUzZUN6VCtIdDBMYkRyUk1LRHM9EmZaOkFEcXRBWnkyUGJ3ZnQwN0lMRnEvK0pqc0NLa2tUZVhuUVhLb0JHN0wwdnBjUmNTdjl4Vmp6cDF2c0xnYUNJY25VZ2l1eDVUb1kzby8ybktuaWxTMU5ORnNUSStmWC9ZRDN3PT0YACABKAEwtrvQ1cS7hAM4gby1ws8xQNPqtc7cMUocU0dtSXRNWkJmNVlRYjdtWFR6ajM2L3NiZXVVPVonIiX/////AAAAEfpvNjdmV3dFby9pQ3doNUQ0TjU2UFlDRWZwcGM9ZZNUQ8IS7AEIEBLnAQocVm5pbVZvWFQ2eE8rVm9jdjlHR1J4aWFzbnBvPRJmWjpBRHF0QVp5MlBid2Z0MDdJTEZxLytKanNDS2trVmM5TjhVWkEzWXNYT3BRNGg0U0NsOVZ2NmFJdXlxc20zVjIvYWtHUk9yL21XUXVaUmZJTjFLVUptejYrM0k2ZEZmWlRJdz09GAAgACgAMJTwj7Cnp/gCOIL1xM7gL0CC9cTO4C9KHDA0YUQrMVZDaXZBTkZUM3lXS1JKTEFQRjJNbz1aHyId/jhIT0l0RzRwODRuamxQSUh4NUxHaDY2WlJMWT1lBbpSeBLsAQgOEucBChxBcThzbjYwVHRTcWx5dmo3OExkQ2tXWkhTTUU9EmZaOkFEcXRBWnkyUGJ3ZnQwN0lMRnEvK0pqc0NLa2tBdnhCNWxEbmJsVHlvMFQ4YTd2ci8zTVk1QWI0cFF5WTVwR0ZJclRVQjg2bGlxWE1VUmdLRzNOSHkrSGZRYXNHYmRXYThBPT0YACAAKAAwgtrvraf0gwM4gumzv9MxQILps7/TMUocdzUrczdwajhuRjBmRHNBUEdWR3FBbTNJcURvPVofIh39VW9oYnJ4TnhZcmFyQjI0SVFGWG5ycCtMb3hzPWWCzkBSEvQBCBYS7wEKHEw3VE5IV2dTdzJpTTR0d2JvdDZKaGZkU0VQWT0SZlo6QURxdEFaeTJQYndmdDA3SUxGcS8rSmpzQ0tra243elRqMkpHS2JxU3FiYU52Q0Jtbm1XS1p4cVlhb1ViMmpma1RrWHN1SkozMkhOQlY1alRvdkNoOTk1aUtyUDMwSkJlbHc9PRgAIAIoAjD6k9WL/reEAzij/vbx1DFA//+dlNwxShxMd1FWSDgyb3d0eTRYcE9sNTdiTGxrd0tkekk9WiciJf////8AAAAR/WFHVDNUVHZKMWh4bjFIWTZubThGa3piWDlVWT1lDJmkyRL0AQgoEu8BChxQTUJIZ1RVcVVocGFNR1hPcjY2eTlSOWgxWkk9EmZaOkFEcXRBWnkyUGJ3ZnQwN0lMRnEvK0pqc0NLa2tybGZ2eHRremJIS2tEV1VNWGlVSXFJYk1jNWQzU2tlaWRicDRzRS9OTGZJd0FXWGUxc0Y0U0ppMENDdFVSaFNZVDdVN2ZBPT0YACAAKAAw/OGegMSlgAM4id6joZgxQIneo6GYMUocQ1JnQjFvYVNKZ2dFK0dGeVVmR1VjUDVzSTVRPVonIiX/////AAAAEPtnVThocGJxc3NPM2RUdnZrUHZ0cUZ2VkNRR3c9ZbLrqU8S7QEIEhLoAQoca2ZQaHV4clo2MGoxeWh0a3o3amI2blZJV0tNPRJmWjpBRHF0QVp5MlBid2Z0MDdJTEZxLytKanNDS2trZ29hOUNGVDVXZCtvNUIxTzlhL3JhYnFzRVQvemxiSGxkUnIxTXJ6THI5c2h1UGRRM0RTUG1nY2xhWjVqbjZSNzVYUzJNUT09GAAgACgAMJTwj7Cnp/gCOM3ghZPzL0DN4IWT8y9KHEJmOTd5Y3dWK3ZBb0hXNXdyZ1N2dGEzbzJFST1aICIe/7ZLbFJUT0VIblY5dDZIdkNBb0hvc09Iby9MRlU9ZbkVch0S7AEIERLnAQocNFZtbzRqZFpTMUVxRkloNTB5dURzZTRHWE9RPRJmWjpBRHF0QVp5MlBid2Z0MDdJTEZxLytKanNDS2trblREQmp2WGdnNUtFaGlHeUM2cnFEbWw5ZW05UitDWVkzUHN4bmQ3TnlicWR6OTNQLzlyQXVCWmNudm8zK0RSSk51bTR0Zz09GAAgACgAMJTwj7Cnp/gCOIG3s/3gL0CBt7P94C9KHHFET296N3lDeDJxRElEeUZFOHBBckJaM2F1Zz1aHyId/21SaHliaG0wOUc4dkZJTjdOeDR4WFAvRVpyaz1la/4RgxL0AQgtEu8BChxBWUZ3bGxRS0FtNDhWTml5WWpsdlpFdmc2RDA9EmZaOkFEcXRBWnkyUGJ3ZnQwN0lMRnEvK0pqc0NLa2tueXVReitXWmdkNmlORkVhYzZja3pIYXkwRngyYkFYU2pheElrNE1uWE5VR0dlNHl6cHQvbE1FcStocnVuMFkzNVdpaXhnPT0YACAAKAAwsZanjNGQgwM4vPvpxqMxQLz76cajMUocd2xLVFZSZk51c3ZYMDZoTC9xZ29qc1hoWmtVPVonIiX/////AAAAEdNZTEoyNWhONXlsWDdDbURRZTV6KzNyZ1VoQVU9ZcClKLoSqwEIARKmAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRJOWjpBRHF0QVp6VUxQaURYN1ZlaFZWMmdSS3RWOEsvc25WTkNkMkdjb1IrN2dQeWk3RWJQWDgxeFdrbDFVVEhVUWpyVExQYW4rS2tSaEhNGAAgACgAMKai1OTItoQDOABAAEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAAStQIIGhKwAgocZHdZRTlVTFF5UjNwWnp6U05OVi9qQzZRYnVBPRKmAVo6QURxdEFadzBPMUJBelJidFN2MlRqSXhmZWVhUUcxUTI5L0srdmRMY1JLbkNvMnBuaG4xQkdZMGkwcU9kL2FtMzk3MUNHYW9vaXNhaVZSRVhXOXBNdHhIQ0FQV0JUbHhkNk44ZnZTMTY1RExubDd3cENtMVo1YmtaelZuMnVTVmxiNUJxTGRJMUlNZ0ZlODVicG9TZW5FZ2pQMGJrTUVKeDdRPT0YACACKAIw9eec98i2hAM4rNrAl60vQOOShP3bMUocRzRwbjVGMWVYdWRiakpET1doTHQ0QnFSbkp3PVonIiX/////AAAACv12VzV1Rmp4ZC94NVhXVWlORExkSTgzcjdQZFU9ZVE7MysS7QEIFBLoAQocWWg3bHRwaTA2UVR1TFlmL2V6d2FRMFRJZE9FPRJmWjpBRHF0QVp5MlBid2Z0MDdJTEZxLytKanNDS2trVEpkV3dJNytFSTg4OXhBL3dxaEFCT3RuZlZKd3dZV3A2bVdWaDkrc2tVV05YNE14U0NEYi9jcnI5SGhrNUhiQXpXc0tvUT09GAAgACgAMJTwj7Cnp/gCONn8xb+FMEDZ/MW/hTBKHFdnN2QwR3BrSmljVWhNK2IraXk1UmJvUE1KUT1aICIe/+1uaVVhcWlOQnhLQWlxSldwaW1xbmFqZWJIZFk9ZXRLdiASwwEIAxK+AQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRJmWjpBRHF0QVp4VWozTHF2cmxTRk1rS2dmOE5rZXdOaVp3WWl2OVZLSk91N2x4TldQTDIxc3dzTzFnVXpMNDNqYWtmWk5iL2hpSkNacmYySW42dnIvNXdrUUZESXRpUm55R2g5QT09GAAgACgAMKai1OTItoQDOABAAEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAAS7QEIFRLoAQocOGswZ3Z4Qi9pemJYRzJXS2JBbDR3VHBpeVY4PRJmWjpBRHF0QVp5MlBid2Z0MDdJTEZxLytKanNDS2trMTU0b2FncHBucGRtdW5nVmlzTnRqbkIybmg3bHBVYmUxL3g0TE5kamkwT1dxTXFla2wvVHhHZVdQeWZMbGR4T0dFT0JPZz09GAAgACgAMJTwj7Cnp/gCONbX4OCFMEDW1+DghTBKHHRoMDBDNk1wVjhaNUZnNmY4ZVZVV3cwWC9lWT1aICIe//YvN2o3eWVUc0o1R2RDY2lxZysrV201SStXVFk9ZTK6oLQwATgA",
+   "version": 1
+}

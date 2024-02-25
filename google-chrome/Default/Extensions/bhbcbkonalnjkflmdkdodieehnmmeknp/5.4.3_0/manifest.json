@@ -1,0 +1,36 @@
+{
+   "action": {
+      "default_title": "Open the popup"
+   },
+   "background": {
+      "service_worker": "./background.bundle.js"
+   },
+   "content_scripts": [ {
+      "js": [ "./foreground.bundle.js" ],
+      "matches": [ "*://*.linkedin.com/*" ],
+      "run_at": "document_end"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "externally_connectable": {
+      "matches": [ "*://*.getprospect.com/*", "*://localhost/*" ]
+   },
+   "homepage_url": "https://app.getprospect.com",
+   "host_permissions": [ "*://*.getprospect.com/*" ],
+   "icons": {
+      "128": "assets/img//extension/icon128.png",
+      "16": "assets/img//extension/icon16.png",
+      "48": "assets/img//extension/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhzlS6q/gCzhm7rPoSKZ7lnc19GT+FEyPgLLlqPuE3ijIObD/i1oiDUvw/2Wr9Lvi9TKKiYmhjsVb+CrYi77/EEyP7j55FYK9hWGYUuQj0zsAgEyutJFGNUsGQkD5JIsGQli37ZEDp/MDtD/GNqmz973eqXK2UrXFi7X8ZQwY1O1YOSc7zNj8U4Ngobzqwur73Eg8FBvka1CVs+uSi95PrGTPfwAPLwMNB1UYO3wLnltLou2bcIQtXEK4KWVlfmWMg/bvpglnTaIWLVew8QVY8++jp+OaLnm+BGa+mpgtUseDTylQBFyknxJU+oK+95mYkgxaVF1/Avjbfr2v91HNdwIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_appName__",
+   "permissions": [ "activeTab", "storage", "scripting" ],
+   "short_name": "Getprospect",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "5.4.3",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "assets/css/common.css" ]
+   } ]
+}

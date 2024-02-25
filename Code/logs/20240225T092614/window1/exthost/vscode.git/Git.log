@@ -1,0 +1,68 @@
+2024-02-25 09:26:17.610 [info] Log level: Info
+2024-02-25 09:26:17.610 [info] Validating found git in: "git"
+2024-02-25 09:26:17.610 [info] Using git "2.43.0" from "git"
+2024-02-25 09:26:17.610 [info] > git rev-parse --show-toplevel [5ms]
+2024-02-25 09:26:17.610 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-25 09:26:17.610 [info] > git rev-parse --show-toplevel [3ms]
+2024-02-25 09:26:17.610 [info] > git rev-parse --git-dir --git-common-dir [4ms]
+2024-02-25 09:26:17.610 [info] Open repository: /home/dhiraj/Workspace/saaswars/src/saaswars
+2024-02-25 09:26:17.610 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [52ms]
+2024-02-25 09:26:17.610 [info] > git config --get commit.template [77ms]
+2024-02-25 09:26:17.610 [warning] ENOENT: no such file or directory, open '/home/dhiraj/Workspace/saaswars/src/saaswars/.git/refs/remotes/origin/main'
+2024-02-25 09:26:17.610 [info] > git rev-parse --show-toplevel [28ms]
+2024-02-25 09:26:17.610 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-25 09:26:17.610 [info] > git rev-parse refs/remotes/origin/main [16ms]
+2024-02-25 09:26:17.610 [info] > git status -z -uall [26ms]
+2024-02-25 09:26:17.610 [info] > git config --get commit.template [5ms]
+2024-02-25 09:26:17.626 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2024-02-25 09:26:17.741 [warning] ENOENT: no such file or directory, open '/home/dhiraj/Workspace/saaswars/src/saaswars/.git/refs/remotes/origin/main'
+2024-02-25 09:26:17.758 [info] > git rev-parse refs/remotes/origin/main [17ms]
+2024-02-25 09:26:17.778 [info] > git status -z -uall [7ms]
+2024-02-25 09:26:18.041 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-25 09:26:18.041 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-25 09:26:18.256 [info] > git check-ignore -v -z --stdin [2ms]
+2024-02-25 09:26:48.349 [info] > git config --get commit.template [9ms]
+2024-02-25 09:26:48.349 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-02-25 09:26:48.356 [warning] ENOENT: no such file or directory, open '/home/dhiraj/Workspace/saaswars/src/saaswars/.git/refs/remotes/origin/main'
+2024-02-25 09:26:48.358 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-02-25 09:26:48.370 [info] > git status -z -uall [5ms]
+2024-02-25 09:26:59.413 [info] Log level: Info
+2024-02-25 09:26:59.413 [info] Validating found git in: "git"
+2024-02-25 09:26:59.413 [info] Using git "2.43.0" from "git"
+2024-02-25 09:26:59.413 [info] > git rev-parse --show-toplevel [87ms]
+2024-02-25 09:26:59.443 [info] > git rev-parse --git-dir --git-common-dir [13ms]
+2024-02-25 09:26:59.468 [info] Open repository: /home/dhiraj/Workspace/saaswars/src/saaswars
+2024-02-25 09:26:59.507 [info] > git rev-parse --show-toplevel [11ms]
+2024-02-25 09:26:59.508 [info] > git config --get commit.template [22ms]
+2024-02-25 09:26:59.532 [info] > git rev-parse --show-toplevel [12ms]
+2024-02-25 09:26:59.543 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [14ms]
+2024-02-25 09:26:59.554 [warning] ENOENT: no such file or directory, open '/home/dhiraj/Workspace/saaswars/src/saaswars/.git/refs/remotes/origin/main'
+2024-02-25 09:26:59.557 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2024-02-25 09:26:59.569 [info] > git rev-parse --show-toplevel [28ms]
+2024-02-25 09:26:59.580 [info] > git status -z -uall [11ms]
+2024-02-25 09:26:59.617 [info] > git rev-parse --show-toplevel [40ms]
+2024-02-25 09:26:59.620 [info] > git config --get commit.template [5ms]
+2024-02-25 09:26:59.664 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2024-02-25 09:26:59.674 [warning] ENOENT: no such file or directory, open '/home/dhiraj/Workspace/saaswars/src/saaswars/.git/refs/remotes/origin/main'
+2024-02-25 09:26:59.676 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2024-02-25 09:26:59.823 [info] > git status -z -uall [136ms]
+2024-02-25 09:27:00.022 [info] > git check-ignore -v -z --stdin [3ms]
+2024-02-25 09:27:05.152 [info] > git config --get commit.template [9ms]
+2024-02-25 09:27:05.153 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-02-25 09:27:05.160 [warning] ENOENT: no such file or directory, open '/home/dhiraj/Workspace/saaswars/src/saaswars/.git/refs/remotes/origin/main'
+2024-02-25 09:27:05.162 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-02-25 09:27:05.175 [info] > git status -z -uall [4ms]
+2024-02-25 09:27:10.275 [info] > git check-ignore -v -z --stdin [2ms]
+2024-02-25 09:27:10.477 [info] > git config --get commit.template [5ms]
+2024-02-25 09:27:10.495 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-02-25 09:27:10.507 [warning] ENOENT: no such file or directory, open '/home/dhiraj/Workspace/saaswars/src/saaswars/.git/refs/remotes/origin/main'
+2024-02-25 09:27:10.509 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-02-25 09:27:10.528 [info] > git status -z -uall [6ms]
+2024-02-25 09:27:43.307 [info] > git config --get commit.template [10ms]
+2024-02-25 09:27:43.307 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-02-25 09:27:43.315 [warning] ENOENT: no such file or directory, open '/home/dhiraj/Workspace/saaswars/src/saaswars/.git/refs/remotes/origin/main'
+2024-02-25 09:27:43.317 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-02-25 09:27:43.334 [info] > git status -z -uall [9ms]

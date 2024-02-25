@@ -1,0 +1,1 @@
+{"version":3,"mappings":"k3BAKO,sCAAkB","names":[],"sources":["../../../../../../apps/mailtracker-extension/src/pages/content/index.ts"],"sourcesContent":["/**\n * @description\n * Chrome extensions don't support modules in content scripts.\n */\n\nimport(\"./components/App\");\n\n"],"file":"src/pages/content/index.js"}

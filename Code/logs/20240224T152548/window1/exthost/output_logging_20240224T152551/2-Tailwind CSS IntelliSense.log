@@ -1,0 +1,7 @@
+[Global] Creating projects: [{"folder":"/home/dhiraj/Workspace/Assessment/assessment","configPath":"/home/dhiraj/Workspace/Assessment/assessment/assessment-fe/tailwind.config.js","isUserConfigured":false,"documentSelector":[{"pattern":"/home/dhiraj/Workspace/Assessment/assessment/assessment-fe/tailwind.config.js","priority":0},{"pattern":"/home/dhiraj/Workspace/Assessment/assessment/assessment-fe/**","priority":3},{"pattern":"/home/dhiraj/Workspace/Assessment/assessment/**","priority":5}]}]
+[Global] Adding watch patterns: /home/dhiraj/Workspace/Assessment/assessment/assessment-fe/tailwind.config.js, /home/dhiraj/Workspace/Assessment/assessment/assessment-fe, /home/dhiraj/Workspace/Assessment/assessment
+[assessment-fe/tailwind.config.js] Initializing...
+[assessment-fe/tailwind.config.js] Loaded Tailwind CSS config file: /home/dhiraj/Workspace/Assessment/assessment/assessment-fe/tailwind.config.js
+[assessment-fe/tailwind.config.js] Loaded postcss v8.4.35: /home/dhiraj/Workspace/Assessment/assessment/assessment-fe/node_modules/postcss
+[assessment-fe/tailwind.config.js] Loaded tailwindcss v3.4.1: /home/dhiraj/Workspace/Assessment/assessment/assessment-fe/node_modules/tailwindcss
+[assessment-fe/tailwind.config.js] Building...

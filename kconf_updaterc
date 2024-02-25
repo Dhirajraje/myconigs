@@ -1,0 +1,16 @@
+updateInfoAdded=true
+
+[ark.upd]
+ctime=1708168555
+done=add-hamburgermenu-to-toolbar
+mtime=1701863392
+
+[dolphin_detailsmodesettings.upd]
+ctime=1708168555
+done=move-content-display
+mtime=1701826334
+
+[filepicker.upd]
+ctime=1708168553
+done=filepicker-remove-old-previews-entry
+mtime=1701558848

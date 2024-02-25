@@ -1,0 +1,7 @@
+2024/02/25-18:32:58.654 16af Reusing MANIFEST /home/dhiraj/.config/google-chrome/Default/WebStorage/31/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/02/25-18:32:58.654 16af Recovering log #3
+2024/02/25-18:32:58.658 16af Reusing old log /home/dhiraj/.config/google-chrome/Default/WebStorage/31/IndexedDB/indexeddb.leveldb/000003.log 
+2024/02/25-18:45:20.788 1696 Level-0 table #5: started
+2024/02/25-18:45:20.790 1696 Level-0 table #5: 36326 bytes OK
+2024/02/25-18:45:20.792 1696 Delete type=0 #3
+2024/02/25-18:45:20.793 1696 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

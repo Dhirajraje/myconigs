@@ -1,0 +1,67 @@
+.inboxsdk__tooltip.inboxsdk__appButton_tooltip div{
+        border: none;
+}
+.inboxsdk__appButton_tooltip{
+    max-height: calc(95vh - 64px) !important;
+}
+/**
+Espace entre les boutons
+ */
+.inboxsdk__appButton .inboxsdk__button_icon {
+  margin-right: 10px;
+}
+.inboxsdk__appButton_tooltip{
+    border: none;
+    box-shadow: 0 6px 16px 0 rgb(0 0 0 / 8%),
+    0 3px 6px -4px rgb(0 0 0 / 12%),
+    0 9px 28px 8px rgb(0 0 0 / 5%);
+    margin-left: -150px !important;
+    max-height: 80vh;
+    overflow: auto;
+}
+.inboxsdk__button_icon {
+    cursor: pointer;
+}
+
+/*Remove top white on right panel*/
+.GBcfaeEbAeFFGIBE{
+    padding: 0 !important;
+}
+
+/*thread tooltip*/
+.inboxsdk__menu{
+}
+
+.inboxsdk__tooltip *, .companion_app_sidebar_wrapper *, .ant-modal-root * {
+    font-family: 'Open Sans', sans-serif !important;
+}
+.sb-show-main *{
+    font-family: 'Open Sans', sans-serif !important;
+}
+.extension_app_icon{
+    width: 24px !important;
+    height: 24px !important;
+}
+
+.inboxsdk__button_iconImg{
+  margin-left: 2.5px;
+}
+
+.inboxsdk__appButton {
+  padding-left: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 50%;
+  width: fit-content;
+  background: transparent;
+}
+
+.inboxsdk__appButton:hover {
+ /* background: rgba(60, 64, 67, 0.078);*/
+}
+
+
+.ant-modal-confirm-content {
+    max-width: 100% !important;
+    width: 100% !important;
+}

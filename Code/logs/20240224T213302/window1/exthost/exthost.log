@@ -1,0 +1,13 @@
+2024-02-24 21:33:04.960 [info] Extension host with pid 19342 started
+2024-02-24 21:33:04.960 [info] Skipping acquiring lock for /home/dhiraj/.config/Code/User/workspaceStorage/5197f53ef8f5269c1bd2d52fb3075eb9.
+2024-02-24 21:33:05.439 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-02-24 21:33:05.839 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-02-24 21:33:05.903 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-02-24 21:33:05.970 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-02-24 21:33:06.097 [info] Eager extensions activated
+2024-02-24 21:33:06.189 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-02-24 21:33:06.193 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-02-24 21:33:06.205 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2024-02-24 21:33:06.260 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2024-02-24 21:41:06.756 [info] Extension host terminating: renderer closed the MessagePort
+2024-02-24 21:41:06.771 [info] Extension host with pid 19342 exiting with code 0

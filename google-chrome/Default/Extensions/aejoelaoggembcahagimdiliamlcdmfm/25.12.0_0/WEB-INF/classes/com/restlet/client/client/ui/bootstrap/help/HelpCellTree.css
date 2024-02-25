@@ -1,0 +1,79 @@
+/*
+ * Copyright (C) 2010-2022 Talend Inc. - www.talend.com
+ *
+ * This source code is available under agreement available at
+ * https://www.talend.com/legal-terms/us-eula
+ *
+ * You should have received a copy of the agreement
+ * along with this program; if not, write to Talend SA
+ * 5 rue Salomon de Rothschild - 92150 Suresnes
+ *
+ */
+
+.cellTreeWidget {
+
+}
+
+.cellTreeEmptyMessage {
+    padding-left: 16px;
+    font-style: italic;
+}
+
+.cellTreeItem {
+    padding-top: 4px;
+    padding-bottom: 4px;
+    cursor: hand;
+    cursor: pointer;
+    zoom: 1;
+}
+
+.cellTreeItemImage {
+
+}
+
+.cellTreeItemImageValue {
+    zoom: 1;
+}
+
+.cellTreeItemValue {
+    padding-left: 3px;
+    padding-right: 3px;
+    outline: none;
+}
+
+.cellTreeOpenItem {
+
+}
+
+.cellTreeTopItem {
+    font-weight: bold;
+    color: #4b4a4a;
+    /* margin-top: 20px; */
+    padding: 3px 13px 3px 10px !important;
+}
+
+.cellTreeTopItemImage {
+
+}
+
+.cellTreeTopItemImageValue {
+    padding-bottom: 1px;
+}
+
+.cellTreeKeyboardSelectedItem {
+    background-color: #ffc;
+    outline: none;
+}
+
+.cellTreeSelectedItem {
+    /* gwt-image: 'cellTreeSelectedBackground'; */
+    background-color: white;
+    /* color: white; */
+    height: auto;
+    overflow: visible;
+}
+
+.cellTreeShowMoreButton {
+    padding-left: 16px;
+    outline: none;
+}

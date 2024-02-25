@@ -1,0 +1,2 @@
+import"../../../assets/js/modulepreload-polyfill.3cfb730f.js";import{j as n,c as r,A as t,M as o}from"../../../assets/js/WithoutMailMerger.248cb695.js";import"../../../assets/js/orgaApi.30f0f501.js";const i=()=>n("div",{className:"container",children:n("h1",{children:"Dev Tools Panel"})});function a(){const e=document.querySelector("#app-container");if(!e)throw new Error("Can not find #app-container");r(e).render(n(o,{children:n(t,{children:n(o,{children:n(i,{})})})}))}a();
+//# sourceMappingURL=index.js.map

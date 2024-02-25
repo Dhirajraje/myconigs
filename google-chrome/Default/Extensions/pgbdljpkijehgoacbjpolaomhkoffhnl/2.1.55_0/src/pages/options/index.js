@@ -1,0 +1,2 @@
+import"../../../assets/js/modulepreload-polyfill.3cfb730f.js";import{j as n,c as r,A as i,M as t}from"../../../assets/js/WithMailTrackerStyle.01289d82.js";import"../../../assets/js/orgaApi.6f81477b.js";const e=()=>n("div",{className:"OptionsContainer",children:"Options"});function c(){const o=document.querySelector("#app-container");if(!o)throw new Error("Can not find #app-container");r(o).render(n(t,{children:n(i,{children:n(t,{children:n(e,{})})})}))}c();
+//# sourceMappingURL=index.js.map

@@ -1,0 +1,9 @@
+2024-02-24 15:25:53.968 [info] Telemetry level is off
+2024-02-24 15:25:53.968 [info] Experiments are disabled, only manually opted experiments are active.
+2024-02-24 15:25:53.968 [info] Default formatter is set to null for workspace /home/dhiraj/Workspace/Assessment/assessment
+2024-02-24 15:25:53.968 [info] Test server listening.
+2024-02-24 15:25:53.969 [info] Python interpreter path: ./.venv/bin/python
+2024-02-24 15:25:59.397 [info] Starting Pylance language server.
+2024-02-24 15:26:01.860 [info] Send text to terminal: source /home/dhiraj/Workspace/Assessment/assessment/.venv/bin/activate
+2024-02-24 15:40:11.384 [info] Send text to terminal: source /home/dhiraj/Workspace/Assessment/assessment/.venv/bin/activate
+2024-02-24 15:46:05.087 [info] Send text to terminal: source /home/dhiraj/Workspace/Assessment/assessment/.venv/bin/activate

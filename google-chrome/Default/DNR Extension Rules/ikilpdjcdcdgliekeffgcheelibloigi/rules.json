@@ -1,0 +1,1 @@
+[{"action":{"type":"block"},"condition":{"resourceTypes":["image"],"urlFilter":"*pixel*user=f223cdf4-8e93-4086-a901-79524002195a&end=1*"},"id":2,"priority":1},{"action":{"type":"block"},"condition":{"resourceTypes":["image"],"urlFilter":"*pixel*user=f223cdf4-8e93-4086-a901-79524002195a&amp;end=1*"},"id":3,"priority":1}]

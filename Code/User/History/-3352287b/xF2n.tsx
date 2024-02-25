@@ -1,0 +1,30 @@
+
+export default function HomeWrap() {
+    const navigations = [{
+        name:"Calculations",
+        path:"/home/calculation"
+    },
+    {
+        name:"Calculations",
+        path:"/home/calculation"
+    },
+    {
+        name:"Calculations",
+        path:"/home/calculation"
+    },
+    {
+        name:"Calculations",
+        path:"/home/calculation"
+    }]
+    return <div className="w-screen h-screen flex flex-col">
+        <div className="max-w-7xl mx-auto w-full py-2">
+            <div className="p-2 bg-slate-300 w-min rounded-md">
+                {
+                    navigations.map((el,index)=>{
+                        return <></>
+                    })
+                }
+            </div>
+        </div>
+    </div>
+}
