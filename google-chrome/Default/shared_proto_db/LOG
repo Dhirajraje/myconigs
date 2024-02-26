@@ -1,3 +1,6 @@
 2024/02/26-16:27:18.384 c6e Reusing MANIFEST /home/dhiraj/.config/google-chrome/Default/shared_proto_db/MANIFEST-000001
 2024/02/26-16:27:18.385 c6e Recovering log #3
 2024/02/26-16:27:18.398 c6e Reusing old log /home/dhiraj/.config/google-chrome/Default/shared_proto_db/000003.log 
+2024/02/26-16:27:52.077 c0b Level-0 table #5: started
+2024/02/26-16:27:52.082 c0b Level-0 table #5: 112700 bytes OK
+2024/02/26-16:27:52.084 c0b Delete type=0 #3

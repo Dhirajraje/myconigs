@@ -1,3 +1,6 @@
 2024/02/26-16:27:17.843 c0a Reusing MANIFEST /home/dhiraj/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
 2024/02/26-16:27:17.857 c0a Recovering log #88
 2024/02/26-16:27:17.866 c0a Reusing old log /home/dhiraj/.config/google-chrome/Default/Sync Data/LevelDB/000088.log 
+2024/02/26-16:30:11.448 c5a Level-0 table #93: started
+2024/02/26-16:30:11.459 c5a Level-0 table #93: 113793 bytes OK
+2024/02/26-16:30:11.464 c5a Delete type=0 #88
